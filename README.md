@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-1.Getting Started with Create React App below are the steps to follow:
 
+1.Getting Started with Create React App below are the steps to follow:
 npm create-react-app my-react-app
 cd my-react-app
 npm install
@@ -14,14 +13,9 @@ You can now view my-react-app in the browser.
 Note that the development build is not optimized.
 To create a production build, use npm run build.
 
-
-
 2.To create Web app using reactjs, you need to follow the below steps:
 
-create components folder :
-
-UserForm and userlist for form validation and user list.
-
+3.create components folder and add the files with name UserForm and userlist for form validation and to list the user details in the file userlist.js.
 Add the form validation in UserForm.js
 It show ID,,NAME,USERNAME,EMAIL,WEBSITE and then add button to add the details on the list in the userList.js file.
 Add the user lists in usrerlist.js
@@ -34,6 +28,4 @@ Add the user lists in usrerlist.js
  6. Create a new file called App.css 
  7. Create a new file called index.html 
 8.Add pagination in userlist.js
-=======
-# WebApp
->>>>>>> c368edf9a7590e15c6bcfa021cffcd966b454370
+
