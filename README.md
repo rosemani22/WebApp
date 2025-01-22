@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1.Getting Started with Create React App below are the steps to follow:
 
 npm create-react-app my-react-app
@@ -33,3 +34,6 @@ Add the user lists in usrerlist.js
  6. Create a new file called App.css 
  7. Create a new file called index.html 
 8.Add pagination in userlist.js
+=======
+# WebApp
+>>>>>>> c368edf9a7590e15c6bcfa021cffcd966b454370
